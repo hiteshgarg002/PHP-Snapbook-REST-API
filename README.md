@@ -1,1 +1,0 @@
-# PHP Snapbook REST API
